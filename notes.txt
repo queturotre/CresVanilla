@@ -1,0 +1,18 @@
+Loop student-row and introduce it into its parent tag: students.
+let studentRowTag;
+for (0;length;++){
+    studentRowTag = create div; 
+    studentsTag.append(studentRowTag); 
+}
+
+for (0;length;++){
+    createTag p
+    createTag p
+    createTag p
+    createTag img
+    createTag img
+    createTag img
+    studentRowTag.append(all);
+}
+
+It's the same iteration, I can do this within existing for
